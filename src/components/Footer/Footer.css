@@ -1,0 +1,11 @@
+footer {
+  color: rgb(189, 200, 212);
+  background-color: #091e89;
+  text-align: center;
+  opacity: 0.75;
+}
+
+footer p{
+    margin: 0px 5px;
+    padding: 0.5rem;
+}
