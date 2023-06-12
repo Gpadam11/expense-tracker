@@ -2,7 +2,7 @@
   "name": "newproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Gpadam11.github.io/bmi-calculator",
+  "homepage": "http://Gpadam11.github.io/expense-tracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -15,6 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": " npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
