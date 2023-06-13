@@ -150,7 +150,7 @@ const Expense = () => {
         </div>
 
         <div className="row m-5 mt-4 justify-content-center">
-          <div className="col-md-3 col-sm-3">
+          <div className="col-md-3 col-sm-3 m-1 ">
             <button
               type="button"
               className="btn btn-dark"
@@ -159,7 +159,7 @@ const Expense = () => {
               Add expense
             </button>
           </div>
-          <div className="col-md-3 col-sm-3">
+          <div className="col-md-3 col-sm-3 m-1">
             <button
               type="button"
               className="btn btn-dark"
@@ -169,7 +169,7 @@ const Expense = () => {
             </button>
           </div>
 
-          <div className="col-md-3 col-sm-3">
+          <div className="col-md-3 col-sm-3 m-1">
             <button
               type="button"
               className="btn btn-dark"
